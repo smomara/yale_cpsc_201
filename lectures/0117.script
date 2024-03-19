@@ -1,0 +1,39 @@
+(base) bash-5.2$ date
+Wed Jan 17 10:25:18 AM EST 2024
+(base) bash-5.2$ pwd
+/home/accts/sbs5/cs201/www/spring_2024/lectures
+(base) bash-5.2$ pwd
+/home/accts/sbs5/cs201/www/spring_2024/lectures
+(base) bash-5.2$ racket
+Welcome to Racket v7.9 [bc].
+> (enter! "0117.rkt")
+"0117.rkt"> digits
+'(0 1 2 3 4 5 6 7 8 9)
+"0117.rkt"> (num-to-word 8)
+"eight"
+"0117.rkt"> (num-to-word 11)
+#f
+"0117.rkt"> (word-to-num "eight")
+8
+"0117.rkt"> (word-to-num "eighteen")
+#f
+"0117.rkt"> x
+'("zero" "one" "two" "three" "four" "five" "six" "seven" "eight" "nine")
+"0117.rkt"> digits
+'(0 1 2 3 4 5 6 7 8 9)
+"0117.rkt"> (sort '(2 5 3 4 2) <)
+'(2 2 3 4 5)
+"0117.rkt"> (sort '(2 5 3 4 2) >)
+'(5 4 3 2 2)
+"0117.rkt"> y
+'("eight" "five" "four" "nine" "one" "seven" "six" "three" "two" "zero")
+"0117.rkt"> z
+'(8 5 4 9 1 7 6 3 2 0)
+"0117.rkt"> 
+(base) bash-5.2$ where ssh
+bash: where: command not found
+(base) bash-5.2$ which ssh
+/usr/bin/ssh
+(base) bash-5.2$ exit
+
+Process shell finished

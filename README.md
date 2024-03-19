@@ -19,12 +19,12 @@ Bear in mind these dates are from the Spring 2024 offering of the course. Dates 
 
 | Date  | Item       | Topic  |
 |-------|------------|--------|
-| 01/17 | Lecture 1  | Racket |
-| 01/17 | Reading    | The Racket Guide |
+| 01/17 | [Lecture 1](lectures/0117.md) | Racket |
+| 01/17 | Reading    | [The Racket Guide](https://docs.racket-lang.org/guide/) |
 | 01/17 | [Homework 0](homeworks/hw0.rkt) |        |
-| 01/19 | Lecture 2  | Racket |
-| 01/22 | Lecture 3  | Racket |
-| 01/24 | Lecture 4  | UNIX   |
+| 01/19 | [Lecture 1](lectures/0119.md)  | Racket |
+| 01/22 | [Lecture 1](lectures/0122.md)  | Racket |
+| 01/24 | [Lecture 4](lectures/0124.md)  | UNIX   |
 | 01/24 | [Homework 1](homeworks/hw1.rkt) |        |
 | 01/26 | Lecture 5  | Racket |
 | 01/29 | Lecture 6  | Racket |
@@ -46,7 +46,7 @@ Bear in mind these dates are from the Spring 2024 offering of the course. Dates 
 | 02/28 | [Homework 4](homeworks/hw4.rkt) |        |
 | 03/01 | Lecture 20 | Boolean Functions |
 | 03/04 | Lecture 21 | Boolean FUnctions + HW4 |
-| 03/06 | Lecture 22 | Boolean Functions + hW4 + UNIX |
+| 03/06 | Lecture 22 | Boolean Functions + HW4 + UNIX |
 | 03/06 | [Homework 5](homeworks/hw5.rkt) |        |
 | 03/08 | Lecture 23 | Gates and Circuits |
 | 03/25 | Lecture 24 | Gates and Circuits |
