@@ -1,5 +1,7 @@
 # Yale CPSC 201: Introduction to Computer Science (Spring 2024)
 
+This repository is designed to be a valuable resource for individuals interested in engaging with the course materials for CPSC 201: Introduction to Computer Science, as offered in Spring 2024 through the Yale Zoo website. It provides a comprehensive overview of the course structure, including a detailed schedule that outlines readings and homework assignments in the sequence they were originally presented.
+
 ## Overview
 
 ### Course Description
@@ -10,6 +12,10 @@ Introduction to the concepts, techniques, and applications of computer science. 
 - [How to Design Programs](http://www.htdp.org/) (Optional): An introduction to programming using Racket written by its inventors. It assumes no programming background.
 
 ## Schedule
+
+The following table is an aggregation of the reading assignments, homework assignments, and the lecture schedule from the [course's web page](https://zoo.cs.yale.edu/classes/cs201/) on the Yale Zoo website. Homework assignments appear on the data they are assigned.
+
+Bear in mind these dates are from the Spring 2024 offering of the course. Dates are still being updated as the class is currently being taught this semester.
 
 | Date  | Item       | Topic  |
 |-------|------------|--------|
@@ -26,10 +32,10 @@ Introduction to the concepts, techniques, and applications of computer science. 
 | 02/02 | Lecture 8  | Racket |
 | 02/05 | Lecture 9  | Racket |
 | 02/07 | Lecture 10 | Racket |
-| 02/07 | Homework 2 |        |
+| 02/07 | [Homework 2](homeworks/hw2.rkt) |        |
 | 02/09 | Lecture 11 | UNIX   |
 | 02/12 | Lecture 12 | HW2    |
-| 02/12 | Homework 3 |        |
+| 02/12 | [Homework 3](homeworks/hw3.rkt) |        |
 | 02/14 | Lecture 13 | Computability |
 | 02/16 | Lecture 14 | Computability |
 | 02/19 | Lecture 15 | Computability |
@@ -37,10 +43,10 @@ Introduction to the concepts, techniques, and applications of computer science. 
 | 02/23 | Lecture 17 | Computability |
 | 02/26 | Lecture 18 | Halting Problem |
 | 02/28 | Lecture 19 | Halting Problem + Boolean Functions |
-| 02/28 | Homework 4 |        |
+| 02/28 | [Homework 4](homeworks/hw4.rkt) |        |
 | 03/01 | Lecture 20 | Boolean Functions |
 | 03/04 | Lecture 21 | Boolean FUnctions + HW4 |
 | 03/06 | Lecture 22 | Boolean Functions + hW4 + UNIX |
-| 03/06 | Homework 5 |        |
+| 03/06 | [Homework 5](homeworks/hw5.rkt) |        |
 | 03/08 | Lecture 23 | Gates and Circuits |
 | 03/25 | Lecture 24 | Gates and Circuits |
