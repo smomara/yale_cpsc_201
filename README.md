@@ -15,11 +15,11 @@ Introduction to the concepts, techniques, and applications of computer science. 
 |-------|------------|--------|
 | 01/17 | Lecture 1  | Racket |
 | 01/17 | Reading    | The Racket Guide |
-| 01/17 | Homework 0 |        |~
+| 01/17 | [Homework 0](homeworks/hw0.rkt) |        |
 | 01/19 | Lecture 2  | Racket |
 | 01/22 | Lecture 3  | Racket |
 | 01/24 | Lecture 4  | UNIX   |
-| 01/24 | Homework 1 |        |
+| 01/24 | [Homework 1](homeworks/hw1.rkt) |        |
 | 01/26 | Lecture 5  | Racket |
 | 01/29 | Lecture 6  | Racket |
 | 01/31 | Lecture 7  | Racket |
